@@ -1,5 +1,13 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FransBillqvist)](https://git.io/streak-stats)
+Github Stats
+ <div align="center"> 
+ <a href="https://github.com/FransBillqvist">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransBillqvist&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/FransBillqvist">
+  <img src="https://github-readme-stats.vercel.app/api?username=FransBillqvist&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true" /></a>
+ <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=FransBillqvist&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/></p>
+  </div> 
+<br/>
 <!--
 **FransBillqvist/FransBillqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
