@@ -10,6 +10,14 @@
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<BR/>
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![SQLLITE](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+<BR/>
+![CoPilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
+![Gpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<br/>
  <div align="center"> 
  <a href="https://github.com/FransBillqvist">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FransBillqvist&layout=compact&count_private=true&theme=github_dark&hide_border=true" /></a>
